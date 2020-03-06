@@ -1,0 +1,12 @@
+{
+  "host": "112.124.40.68",
+  "port": 22,
+  "username": "root",
+  "password": "wbbQ10600132",
+  "pathMap": [
+    {
+      "localPath": "./dist",
+      "remotePath": "/var/www/test"
+    }
+  ]
+}
